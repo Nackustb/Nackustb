@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I'm Gui Baoshan 👨‍🔬, a Master's student in Mechanical Engineering and Automation 🤖🎓 at   BUAA 🏫. I'm passionate about robotics 🤖, robot software development 💻🛠️, artificial intelligence 🧠✨, and mobile robotics 🦿🚀. I love combining cutting-edge tech 🧩 with hands-on engineering 🪛⚙️ to create intelligent, adaptive systems 🤩🔧. Always curious 🔍, always building 🏗️—let’s make robots smarter together! 🤝💡
+I'm Gui Baoshan 👨‍🔬, a Master's student in Mechanical Engineering and Automation 🤖🎓 at   BUAA 🏫. I'm passionate about robotics 🤖, robot software development 💻🛠️, artificial intelligence 🧠✨, and mobile robotics 🦿🚀. I love combining cutting-edge tech 🧩 with hands-on engineering ⚙️ to create intelligent, adaptive systems 🤩🔧. Always curious 🔍, always building 🏗️—let’s make robots smarter together! 🤝💡
 
 ## 🚀 Tech Skills
 
